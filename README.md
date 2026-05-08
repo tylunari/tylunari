@@ -2,10 +2,10 @@
 ---
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://placekitten.com/"><img src="https://placekitten.com/720/1080?image=4" width="250" align="right" alt="meow"/></a>
+<a href="https://place.manatee.sh/"><img src="https://place.manatee.sh/720/1081.jpg" width="250" align="right" alt="manatee noise"/></a>
 <!-- markdownlint-enable MD033 -->
 
-[manatee.sh](https://manatee.sh) • [twitter](https://twitter.com/tjamesop)
+[manatee.sh](https://manatee.sh) • fuck twitter
 
 ## technologies
 
@@ -26,10 +26,10 @@
 
 [![Splash](https://api.manatee.sh/github/shield.php?)](https://api.manatee.sh/splashes/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bigmanatee&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tylunari&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:activity-->
 
-![Metrics](https://github.com/BigManatee/BigManatee/blob/main/github-metrics.svg)
+![Metrics](https://github.com/tylunari/tylunari/blob/main/github-metrics.svg)
 
 ---
