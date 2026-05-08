@@ -32,6 +32,6 @@ jobs:
     - run: npm run start
 
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GH_GIST_TOKEN }}
       GIST_ID: ${{ secrets.GIST_ID }}
       CODESTATS_USER: ${{ secrets.CODESTATS_USER }}
